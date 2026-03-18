@@ -1,4 +1,4 @@
-# Lab: Username enumeration via subtuly responses
+# Lab: Username enumeration via subtuly different responses
 
 ## Overview
 This lab is subtly vulnerable to username enumeration and password brute-force attacks. It has an account with a predictable username and password, which was provided.
