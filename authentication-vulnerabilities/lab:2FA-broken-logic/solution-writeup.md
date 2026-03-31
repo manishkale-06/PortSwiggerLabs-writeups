@@ -26,7 +26,7 @@ When that field is modified to another user then authentication code is generate
 9. In Burp intruder add $$ to the authentication code and and change verify field to target user, also select the payload type as brute forcer and set 4 in min and max length and also change the charater set to 0-9.
 10. Start the attack and sort by respose code, 302 response will give the correct code.
 11. Enter the code in 2FA page.
-!2. Login Successfully.
+12. Login Successfully.
 
 ## Payload Used
 
